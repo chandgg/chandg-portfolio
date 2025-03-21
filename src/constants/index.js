@@ -19,9 +19,9 @@ import {
   hdfchome,
   shraaddhamotors,
   Captlogo,
-  p1,
-  p2,
-  p4,
+  brightinternationals,
+  animga,
+  healthyfood,
   threejs,
 } from "../assets";
 
@@ -214,7 +214,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: p1,
+    image: brightinternationals,
     source_code_link: "https://brightinternationals.com/",
   },
   {
@@ -235,7 +235,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: p2,
+    image: animga,
     source_code_link: "https://amgranito.ca/",
   },
   {
@@ -256,7 +256,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: p4,
+    image: healthyfood,
     source_code_link: "https://my-food-ordering.vercel.app/",
   },
 ];

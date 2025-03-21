@@ -26,9 +26,9 @@ import hdfchome from "./company/hdfchome.png";
 import shraaddhamotors from "./company/shraaddhamotors.jpg";
 import Captlogo from "./company/Captlogo.png";
 
-import p1 from "./p1.jpg";
-import p2 from "./p2.jpg";
-import p4 from "./p4.jpg";
+import p1 from "./brightinternationals.jpg";
+import p2 from "./animga.jpg";
+import p4 from "./healthyfood.jpg";
 
 export {
   logo,
@@ -56,7 +56,7 @@ export {
   Captlogo,
   dmart,
   shraaddhamotors,
-  p1,
-  p2,
-  p4,
+  brightinternationals,
+  animga,
+  healthyfood,
 };
