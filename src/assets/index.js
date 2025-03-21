@@ -26,9 +26,9 @@ import hdfchome from "./company/hdfchome.png";
 import shraaddhamotors from "./company/shraaddhamotors.jpg";
 import Captlogo from "./company/Captlogo.png";
 
-import p1 from "./brightinternationals.jpg";
-import p2 from "./animga.jpg";
-import p4 from "./healthyfood.jpg";
+import brightinternationals from "./company/brightinternationals.jpg";
+import animga from "./company/animga.jpg";
+import healthyfood from "./company/healthyfood.jpg";
 
 export {
   logo,
