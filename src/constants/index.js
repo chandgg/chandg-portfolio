@@ -19,9 +19,9 @@ import {
   hdfchome,
   shraaddhamotors,
   Captlogo,
-  carrent,
-  jobit,
-  tripguide,
+  p1,
+  p2,
+  p4,
   threejs,
 } from "../assets";
 
@@ -197,12 +197,12 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Bright Internationals",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "IELTS preparation class for students for Abroads Studies.",
     tags: [
       {
-        name: "react",
+        name: "wordpress",
         color: "blue-text-gradient",
       },
       {
@@ -214,13 +214,13 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: p1,
+    source_code_link: "https://brightinternationals.com/",
   },
   {
-    name: "Job IT",
+    name: "Luxury Tiles And Marbles",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Canada Base Dealer of Luxury and unique tiles and Marbles for decoration of House, office anything decorative places.",
     tags: [
       {
         name: "react",
@@ -235,13 +235,13 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: p2,
+    source_code_link: "https://amgranito.ca/",
   },
   {
-    name: "Trip Guide",
+    name: "My Food Order",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A landing Pages of Online Healthy Food Delivery websites.",
     tags: [
       {
         name: "nextjs",
@@ -256,8 +256,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: p4,
+    source_code_link: "https://my-food-ordering.vercel.app/",
   },
 ];
 
