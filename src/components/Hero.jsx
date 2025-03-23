@@ -24,7 +24,7 @@ const Hero = () => {
           </p>
         </div>
       </div>
-        <div className="w-full h-full relative z-0 hidden md:block">
+        <div className="w-full h-full relative z-0">
           <ComputersCanvas />
         </div>
 
