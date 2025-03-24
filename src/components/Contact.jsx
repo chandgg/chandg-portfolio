@@ -30,11 +30,14 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     setLoading(true);
+    //template_qy2cdgf
+    //service_8or0y9c
+    //zHZF2o0wpXKGfUBfT
 
     emailjs
       .send(
-        import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
+        'service_8or0y9c',
+        'template_qy2cdgf',
         {
           from_name: form.name,
           to_name: "Chandraj Gurung",
@@ -42,7 +45,7 @@ const Contact = () => {
           to_email: "chandgurung1999@gmail.com",
           message: form.message,
         },
-        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+        'zHZF2o0wpXKGfUBfT'
       )
       .then(
         () => {
